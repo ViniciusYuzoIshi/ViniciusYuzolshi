@@ -11,7 +11,7 @@ I enjoy turning complex problems into simple, reliable solutions.
 ## 🌍 Where to find me
 
 <p align="left">
-  <a href="https://github.com/ViniciusYuzolshi" target="_blank">
+  <a href="https://github.com/ViniciusYuzoIshi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
