@@ -23,13 +23,6 @@ I enjoy turning complex problems into simple, reliable solutions.
     <img src="https://img.shields.io/badge/@VINICIUSYUZO-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://tiktok.com/@viniciusyuzo" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-
-  <a href="https://tiktok.com/@viniciusyuzo" target="_blank">
-    <img src="https://img.shields.io/badge/@VINICIUSYUZO-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
 
   <a href="https://wa.me/5511992770196" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
