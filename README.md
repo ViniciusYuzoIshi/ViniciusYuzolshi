@@ -106,14 +106,6 @@ Automation tool to process videos by adding logos and final cards.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusYuzolshi&show_icons=true&theme=dark" />
 </p>
-
----
-
-## 📫 Contact
-- 📱 WhatsApp: https://wa.me/5511992770196  
-- 📸 Instagram: https://instagram.com/viniciusyuzo  
-- 💼 GitHub: https://github.com/ViniciusYuzolshi  
-
 ---
 
 ⭐ Feel free to explore my repositories and reach out if you want to build something together.
