@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Vinicius Yuzo Ishi</h1>
+<h1 align="left">Hi 👋, I'm Vinicius Yuzo Ishi.</h1>
 
 🚀 Developer focused on **SaaS, dashboards and automation**  
 🇧🇷 Brazil
